@@ -125,6 +125,13 @@ button:hover {
 	--button-border: 1px solid #000000;
 }
 
+/* Container Hub */
+.button-container {
+	--button-text: #000000;
+	--button-background: #FFFFFF;
+	--button-border: 1px solid #000000;
+}
+
 /* Buy Me a Coffee */
 .button-coffee {
 	--button-text: #000000;
